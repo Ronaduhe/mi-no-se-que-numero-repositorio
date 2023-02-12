@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8"/>
         <title>RoWorld</title>
-        <meta name="descripcion" content="esta es una pagina donde puedo expresar toda mi creatividad "/>
+        <meta name="descripcion" content="esta es una pagina 100% de prueba "/>
         <meta name="author" content="nombre de autor, empresa,etc">
         <meta name=" keywords" content="tiene las palabras claves muy frecientes que habran en el sitio">
        <style> header {background:aqua}
@@ -19,7 +19,7 @@
     <body>
         <header >
         <h1>Mi blog</h1>
-        <h2 >el blog donde los caballos encuentran sus alas</h2>
+        <h2 >Blog literario</h2>
         </header>
         <nav>
     <ul >
@@ -52,7 +52,7 @@
      
     </article>
     <aside> 
-        poemas para comenzar un nuevo año con el corazon 
+        poemas para comenzar un nuevo año con el corazon contento
     </aside>
     <footer> derechos reservados 2010/2018</footer>
     </body>
