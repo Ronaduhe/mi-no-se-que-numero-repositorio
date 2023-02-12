@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8"/>
+        <title>RoWorld</title>
+        <meta name="descripcion" content="esta es una pagina donde puedo expresar toda mi creatividad "/>
+        <meta name="author" content="nombre de autor, empresa,etc">
+        <meta name=" keywords" content="tiene las palabras claves muy frecientes que habran en el sitio">
+       <style> header {background:aqua}
+        h2{background: blueviolet;}
+        #footeruno {background:black;color:white}
+        ul{border: 5px solid green;background-color:rgb(167, 122, 209);}
+        *{margin: 30px;}
+        .fondo{background-color:rgb(221, 218, 182)}
+    </style>
+          
+            
+    </head>
+    <body>
+        <header >
+        <h1>Mi blog</h1>
+        <h2 >el blog donde los caballos encuentran sus alas</h2>
+        </header>
+        <nav>
+    <ul >
+        <li>cuentos</li>
+        <li>poemas</li>
+        <li>canciones</li>
+    </ul>
+        </nav>
+        <section>
+            <footer id="footeruno";> derechos reservados 2022</footer>
+            <article class="fondo" >
+        <h3>Puentes</h2>
+        <p>yo dibujo puentes para que me encuentres</p>
+        <p>puentes de tela con mis acuarelas</p>
+        <p>puentes colgantes de tisa brillantes</p>
+        <p>puentes levadizos, plateados, cobrizos</p>
+        <p>puentes inrompibles de piedra,invisibles</p>
+        <P> y tu, ¿quien creyera? no los ves siquiera</P>
+        <p>hago cien, diez, uno y no cruzas ninguno</p>
+        <p>mas como te quiero, dibujo y espero</p>
+        <p>bellos, bellos puentes para que me encuentres</p>
+     <footer>"poemas que alegran el alma"
+        <P style="color:black">comentarios (0)</P>
+        <blockquote cite="http://"> mensaje 1</blockquote>
+        <blockquote cite="http://">mensaje 2</blockquote>
+        <img src="imagenes/WhatsApp Image 2022-12-30 at 19.00.08 (1).jpg" alt="imagen de puente">
+    </footer>
+    <a href="http://google.com"> visitar el sitio</a>
+    <time datetime="30/12/22"; style="color:rgb(127, 255, 144)"></time>
+     
+    </article>
+    <aside> 
+        poemas para comenzar un nuevo año con el corazon 
+    </aside>
+    <footer> derechos reservados 2010/2018</footer>
+    </body>
+</html>
